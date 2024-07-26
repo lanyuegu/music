@@ -1,1 +1,60 @@
+{
+  "plugins": [
+  {
+        "name": "5sing-酷狗",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/5sing-kugou.js",
+        "version": "0.1.0"
+    },
+  {
+        "name": "QQ音乐",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/QQmusic-vip.js",
+        "version": "0.1.15"
+    }, 
+ {
+        "name": "WebDAV",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/WebDAV.js",
+        "version": "0.1.15"
+    }, 
+ {
+        "name": "bilibili",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/bilibili.js",
+        "version": "0.1.15"
+    }, 
+ {
+        "name": "千千动听",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/qianqianmusic.js",
+        "version": "0.1.15"
+    }, 
+ {
+        "name": "咪咕音乐",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/mugumusic.js",
+        "version": "0.1.15"
+    },
+{
+        "name": "喜马拉雅",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/ximalaya.js",
+        "version": "0.1.15"
+    },
+{
+        "name": "网易云音乐",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/wangyiyunmusic.js",
+        "version": "0.1.15"
+    },
+{
+        "name": "酷狗",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/kougoumusic.js",
+        "version": "0.1.15"
+    },
+{
+      "name": "歌词千寻",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciqianxun/index.js",
+      "version": "0.0.1"
+    },
+{
+      "name": "歌词网",
+      "url": "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/geciwang/index.js",
+      "version": "0.0.1"
+}
+  ]
+}
 
