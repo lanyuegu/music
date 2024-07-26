@@ -41,6 +41,11 @@
         "version": "0.1.6"
     },
 {
+        "name": "网易云",
+        "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/wangyiyun.js",
+        "version": "0.1.6"
+    },
+{
         "name": "酷狗",
         "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/kougoumusic.js",
         "version": "0.1.6"
