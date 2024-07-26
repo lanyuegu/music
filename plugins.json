@@ -8,12 +8,12 @@
   {
         "name": "QQ音乐",
         "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/QQmusic-vip.js",
-        "version": "0.1.15"
+        "version": "0.2.2"
     }, 
  {
         "name": "WebDAV",
         "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/WebDAV.js",
-        "version": "0.1.15"
+        "version": "0.0.2"
     }, 
  {
         "name": "bilibili",
@@ -23,27 +23,27 @@
  {
         "name": "千千动听",
         "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/qianqianmusic.js",
-        "version": "0.1.15"
+        "version": "0.1.1"
     }, 
  {
         "name": "咪咕音乐",
         "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/mugumusic.js",
-        "version": "0.1.15"
+        "version": "0.2.2"
     },
 {
         "name": "喜马拉雅",
         "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/ximalaya.js",
-        "version": "0.1.15"
+        "version": "0.1.20"
     },
 {
         "name": "网易云音乐",
         "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/wangyiyunmusic.js",
-        "version": "0.1.15"
+        "version": "0.1.6"
     },
 {
         "name": "酷狗",
         "url": "https://raw.githubusercontent.com/lanyuegu/musicfree/main/root/kougoumusic.js",
-        "version": "0.1.15"
+        "version": "0.1.6"
     },
 {
       "name": "歌词千寻",
