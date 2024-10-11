@@ -5,11 +5,7 @@
         "url": "https://raw.githubusercontent.com/lanyuegu/music/refs/heads/main/root/5sing-kugou.js",
         "version": "0.1.0"
     },
-  {
-        "name": "QQ音乐",
-        "url": "https://raw.githubusercontent.com/lanyuegu/music/refs/heads/main/root/QQmusic-vip.js",
-        "version": "0.2.2"
-    }, 
+
  {
         "name": "WebDAV",
         "url": "https://raw.githubusercontent.com/lanyuegu/music/refs/heads/main/root/WebDAV.js",
